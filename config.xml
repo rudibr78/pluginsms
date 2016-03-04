@@ -185,6 +185,9 @@
     <!-- page, column -->
     <preference value='unpaginated' name='PaginationMode'/>
 		
-
+    <icon src="icon.png" />
+     
+    <splash src="splash.png" />
+    
 
 </widget>
